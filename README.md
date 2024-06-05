@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuperDragonStar&theme=" alt="SuperDragonStar" /></a> </p>
 
 - 💬 Ask me about **front-end programmes like react,vue and angular**
-- Senior Full Stack Developer at Company A with 5 years of experience in web development. Specialized in development with Angular.js and Salesforce.com. Proven
+- Senior Full Stack Developer at Company  with 5 years of experience in web development. Specialized in development with Angular.js and Salesforce.com. Proven
 ability in data analysis and creating insightful visualizations
 
 
