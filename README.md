@@ -4,6 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuperDragonStar&theme=" alt="SuperDragonStar" /></a> </p>
 
 - 💬 Ask me about **front-end programmes like react,vue and angular**
+- Senior Full Stack Developer at Company A with 5 years of experience in web development. Specialized in development with Angular.js and Salesforce.com. Proven
+ability in data analysis and creating insightful visualizations
 
 
 <div> <a href="https://github.com/SuperDragonStar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
